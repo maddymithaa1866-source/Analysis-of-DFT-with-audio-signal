@@ -10,7 +10,7 @@
 
 # PROGRAM: 
 // analyze audio signal
-
+```
 # ==============================
 # AUDIO DFT ANALYSIS IN COLAB
 # ==============================
@@ -83,6 +83,7 @@ plt.colorbar(format="%+2.0f dB")
 plt.title("Spectrogram (dB)")
 plt.ylim(0, sr/2)
 plt.show()
+```
 
 # AUDIO SIGNAL USED :
 
